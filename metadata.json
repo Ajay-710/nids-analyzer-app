@@ -1,0 +1,6 @@
+{
+  "name": "NIDS",
+  "description": "An application to analyze network traffic data (CSV format) using K-Means clustering to identify potential anomalies. Upload a CSV, select features, and visualize suspicious activities.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
